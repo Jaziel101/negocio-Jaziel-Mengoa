@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Buscador Pokémon</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 500px; margin: 40px auto; text-align: center; }
+    input { padding: 8px; width: 60%; }
+    button { padding: 8px 14px; cursor: pointer; }
+    #resultado { margin-top: 20px; }
+    #cargando { color: #888; font-style: italic; }
+    .error { color: #c00; font-weight: bold; }
+    img { width: 150px; }
+  </style>
+</head>
+<body>
+  <h1>Buscador Pokémon</h1>
+  <input type="text" id="nombre" placeholder="Ej: Mewtwo" />
+  <button id="buscar">Buscar</button>
+
+  <div id="cargando"></div>
+  <div id="resultado"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>
