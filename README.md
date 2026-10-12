@@ -1,4 +1,4 @@
-# negocio-juan-perez
+# negocio-Jaziel-Mengoa
 
 **Apellidos:** Mengoa Pacheco
 **Nombres:** Jaziel Sergio  
@@ -22,4 +22,9 @@ HTML, JavaScript (fetch/async-await), SQL (SQLite), Git.
 
 Conflicto A: Resuelto
 Conflicto B: Resuelto
-Conflicto C: No resuelto
+Conflicto C: Resuelto
+Conflicto D: Resuelto
+Conflicto final resuelto
+
+## Conflicto resuelto
+Se resolvió el conflicto entre las ramas 11 y 12 dejando esta versión final.
