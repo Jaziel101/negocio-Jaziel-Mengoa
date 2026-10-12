@@ -1,4 +1,4 @@
-# negocio-Jaziel-Mengoa
+# Negocio-Jaziel-Mengoa
 
 **Apellidos:** Mengoa Pacheco
 **Nombres:** Jaziel Sergio  
