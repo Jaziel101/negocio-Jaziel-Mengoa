@@ -20,4 +20,6 @@ Se crearon dos ramas que editaron la misma línea del README. Al hacer merge en 
 ## Tecnologías
 HTML, JavaScript (fetch/async-await), SQL (SQLite), Git.
 
+Conflicto A: Resuelto
 Conflicto B: Resuelto
+Conflicto C: No resuelto
